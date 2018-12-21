@@ -1,1 +1,4 @@
 # async
+- RabbitMQ
+- Celery
+- Python
